@@ -1,16 +1,20 @@
-## Hi there 👋
+### Привет 👋
 
-<!--
-**tseloam/tseloam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Иду в **Platform Engineering с уклоном в AI-инфраструктуру** —
+эксплуатация инфраструктуры, на которой работает ИИ: GPU-стек,
+inference-серверы (vLLM), Kubernetes для ML-нагрузок, наблюдаемость.
 
-Here are some ideas to get you started:
+🎯 Учусь в открытую по плану на 26 недель — конспекты и артефакты
+складываю в [**platform-journey**](https://github.com/tseloam/platform-journey).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Сейчас: Git, Bash, Python (этап 1 из 6)
+- 🧰 Фон: администрирование Linux/Windows, Docker, Nginx, MySQL, PowerShell
+- 🎓 Следующее: Docker вглубь → CI/CD → IaC → Kubernetes → GPU/vLLM
+
+#### 🛠 Стек
+
+![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
