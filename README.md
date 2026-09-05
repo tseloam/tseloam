@@ -4,13 +4,6 @@
 эксплуатация инфраструктуры, на которой работает ИИ: GPU-стек,
 inference-серверы (vLLM), Kubernetes для ML-нагрузок, наблюдаемость.
 
-🎯 Учусь в открытую по плану на 26 недель — конспекты и артефакты
-складываю в [**platform-journey**](https://github.com/tseloam/platform-journey).
-
-- 🔭 Сейчас: Git, Bash, Python (этап 1 из 6)
-- 🧰 Фон: администрирование Linux/Windows, Docker, Nginx, MySQL, PowerShell
-- 🎓 Следующее: Docker вглубь → CI/CD → IaC → Kubernetes → GPU/vLLM
-
 #### 🛠 Стек
 
 ![Linux](https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white)
